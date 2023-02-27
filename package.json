@@ -4,10 +4,13 @@
     "packages/*"
   ],
   "scripts": {
-    "dev": "turbo run dev --parallel",
-    "build": "turbo run build"
+    "dev": "NODE_OPTIONS=--openssl-legacy-provider turbo run dev --parallel",
+    "build": "NODE_OPTIONS=--openssl-legacy-provider turbo run build"
   },
   "devDependencies": {
     "turbo": "^1.7.4"
+  },
+  "dependencies": {
+    "phosphor-react": "^1.4.1"
   }
 }
