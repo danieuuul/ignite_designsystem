@@ -5,7 +5,7 @@
   ],
   "scripts": {
     "dev": "NODE_OPTIONS=--openssl-legacy-provider turbo run dev --parallel",
-    "build": "NODE_OPTIONS=--openssl-legacy-provider turbo run build"
+    "build": "turbo run build"
   },
   "devDependencies": {
     "turbo": "^1.7.4"
