@@ -1,5 +1,5 @@
 {
-  "name": "@ignites_ds/docs",
+  "name": "@ignite_ds/docs",
   "version": "1.0.0",
   "description": "",
   "main": "vite.config.js",
