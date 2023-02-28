@@ -1,0 +1,2 @@
+import{A as t}from"./index.c680a216.js";import"./index.cc2a2cfd.js";import"./iframe.0c29fe5e.js";import"./index.62c2e122.js";import"./jsx-runtime.d4b483e0.js";const c={title:"Data display/Avatar",component:t,args:{src:"https://github.com/danieuuul.png",alt:"Daniel Rocha"},argTypes:{src:{control:{type:"text"}}}},p={},e={args:{src:void 0}},l=["Primary","WithFallback"];export{p as Primary,e as WithFallback,l as __namedExportsOrder,c as default};
+//# sourceMappingURL=Avatar.stories.9cff858e.js.map
